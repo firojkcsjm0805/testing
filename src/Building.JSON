@@ -1,0 +1,10 @@
+{
+    "building": [
+        "Buildgin 4", "Building 6", "Building 8"
+    ],
+    "rooms": [{"Punjab":{"floor":7,"Building":4}},{"TamilNadu":{"floor":6,"Building":6}},
+        {"Kavery":{"floor":4,"Building":8}}
+    ],
+    "meeting": [{"date": "","startTime":"","endTime":""},{"room":{"punjab":{"floor":7,"Building"}}
+    ]
+}
